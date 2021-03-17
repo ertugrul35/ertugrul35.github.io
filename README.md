@@ -1,3 +1,3 @@
 # mobilehotspot.github.io
 
-Everything for you..
+Everything for you.
